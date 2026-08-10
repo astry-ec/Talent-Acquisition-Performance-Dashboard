@@ -67,10 +67,35 @@ The dataset originates from an Excel file containing 6 distinct sheets. Each she
       )
    ```
    
-5. Average Days in Stage Process
-6. Average Interview Days
+3. Average Days in Stage Process
 
+   Calculated days in stage
+   ```text
+   Total Hired = 
+      CALCULATE (
+          DISTINCTCOUNT ( 'Application'[ApplicationID] ),
+          'Application'[FinalOutcome] = "Hired"
+      )
+   ```
 
+   Calculated average days in stage
+   ```text
+   Avg Days in Stage = 
+      AVERAGE ( 'StatusHistory'[Days in Stage] )
+   ```
+   
+7. Average Interview Days
+```text
+Avg Interview Days = 
+   CALCULATE (
+       AVERAGE ( 'StatusHistory'[Days in Stage] ),
+       'StatusHistory'[Status] IN {
+           "Interview 1",
+           "Interview 2",
+           "Interview 3"
+       }
+   )
+```
 
 
 
