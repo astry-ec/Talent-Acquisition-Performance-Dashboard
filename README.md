@@ -96,7 +96,37 @@ The dataset originates from an Excel file containing 6 distinct sheets. Each she
           }
       )
    ```
+## Dashboard Analysis
 
+1. Overall Performance
+2. Time Performance
+3. Job Posting Performance
+4. Interviewer Performance
+5. Recruitment Process Funnel
+6. Job Vacancy Closing Performance
+
+<img width="1058" height="775" alt="image" src="https://github.com/user-attachments/assets/ad19e75d-627a-46f2-b696-f41d8b9e69aa" />
+
+## Key Findings
+1. Recruitment bottleneck
+Target/SLA performance
+Department/employee-level differences
+Source effectiveness
+Interviewer performance
+Vacancy closing performance
+
+## Recommendations
+Berdasarkan findings, bukan recommendation generik.
+Prioritize berdasarkan impact.
+
+## Limitations
+Dummy/manual dataset
+Small sample
+Assumed targets
+Tidak merepresentasikan perusahaan nyata
+Beberapa metric sensitif terhadap sample size — referral 100% kamu itu contoh bagus 😂
+
+## Conclusion
 
 
 
