@@ -32,8 +32,14 @@ The dataset originates from an Excel file containing 6 distinct sheets. Each she
 1. Total Candidates, Total Application, Total Hired
    ```text
    Total Candidates = DISTINCTCOUNT(Candidate[CandidateID])
+   Total Application = DISTINCTCOUNT('Application'[ApplicationID])
+   Total Hired = 
+      CALCULATE (
+          DISTINCTCOUNT ( 'Application'[ApplicationID] ),
+          'Application'[FinalOutcome] = "Hired"
+      )
    ```
-3. Average Time to Hire
+2. Average Time to Hire
    
    Calculated time to hire days
    ```text
