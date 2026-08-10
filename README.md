@@ -85,17 +85,17 @@ The dataset originates from an Excel file containing 6 distinct sheets. Each she
    ```
    
 7. Average Interview Days
-```text
-Avg Interview Days = 
-   CALCULATE (
-       AVERAGE ( 'StatusHistory'[Days in Stage] ),
-       'StatusHistory'[Status] IN {
-           "Interview 1",
-           "Interview 2",
-           "Interview 3"
-       }
-   )
-```
+   ```text
+   Avg Interview Days = 
+      CALCULATE (
+          AVERAGE ( 'StatusHistory'[Days in Stage] ),
+          'StatusHistory'[Status] IN {
+              "Interview 1",
+              "Interview 2",
+              "Interview 3"
+          }
+      )
+   ```
 
 
 
