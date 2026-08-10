@@ -30,9 +30,12 @@ The dataset originates from an Excel file containing 6 distinct sheets. Each she
 
 ## Key Metrics & DAX
 1. Total Candidates, Total Application, Total Hired
-2. Average Time to Hire
-3. Average Days in Stage Process
-4. Average Interview Days
+   ```text
+   Total Candidates = DISTINCTCOUNT(Candidate[CandidateID])
+   '''text
+3. Average Time to Hire
+4. Average Days in Stage Process
+5. Average Interview Days
 
 
 
