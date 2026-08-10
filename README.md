@@ -32,10 +32,35 @@ The dataset originates from an Excel file containing 6 distinct sheets. Each she
 1. Total Candidates, Total Application, Total Hired
    ```text
    Total Candidates = DISTINCTCOUNT(Candidate[CandidateID])
-   '''text
+   '''
 3. Average Time to Hire
-4. Average Days in Stage Process
-5. Average Interview Days
+   Calculated time to hire days
+   '''text
+   Time to Hire Days = 
+      VAR AppliedDate = 'Application'[Applied Date]
+      VAR HiredDate = 'Application'[Hired Date]
+      RETURN
+         IF (
+              NOT ISBLANK ( AppliedDate )
+                  && NOT ISBLANK ( HiredDate ),
+              DATEDIFF ( AppliedDate, HiredDate, DAY ),
+              BLANK ()
+    )
+   '''
+   Calculated average time to hire
+   '''text
+   Avg Time to Hire = 
+      AVERAGEX (
+          FILTER (
+              'Application',
+              NOT ISBLANK ( 'Application'[Time to Hire Days] )
+          ),
+          'Application'[Time to Hire Days]
+      )
+   '''
+   
+5. Average Days in Stage Process
+6. Average Interview Days
 
 
 
