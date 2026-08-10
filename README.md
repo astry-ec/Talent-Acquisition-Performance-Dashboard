@@ -25,4 +25,18 @@ The dataset originates from an Excel file containing 6 distinct sheets. Each she
 5. Source Sheet: source ID and name data
 6. Interview Sheet: interviewer ID and name data
 
+## Relationship Diagram
+<img width="1170" height="821" alt="image" src="https://github.com/user-attachments/assets/fec2ca95-b43a-4f29-8e75-4735f2e67755" />
+
+## Key Metrics & DAX
+1. Total Candidates, Total Application, Total Hired
+2. Average Time to Hire
+3. Average Days in Stage Process
+4. Average Interview Days
+
+
+
+
+
+
 
