@@ -16,5 +16,13 @@ The process time of finding new employee is varied, some of job vacations are ab
 4. Which stage acts as a bottleneck in the recruitment process?
 5. How did the interviewers perform during the recruitment process?
 
+## Data Modelling Approach
+The dataset originates from an Excel file containing 6 distinct sheets. Each sheet holds specific data, detailed as follows:
+1. Candidates Sheet: comprehensive personal data of candidates
+2. Jobs Sheet: comprehensive job vacancy data (covering both open and closed positions)
+3. Applications Sheet: candidate application data and current recruitment process status
+4. StatusHistory Sheet: status history for each candidate's application
+5. Source Sheet: source ID and name data
+6. Interview Sheet: interviewer ID and name data
 
 
