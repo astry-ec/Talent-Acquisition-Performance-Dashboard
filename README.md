@@ -34,8 +34,9 @@ The dataset originates from an Excel file containing 6 distinct sheets. Each she
    Total Candidates = DISTINCTCOUNT(Candidate[CandidateID])
    ```
 3. Average Time to Hire
+   
    Calculated time to hire days
-   '''text
+   ```text
    Time to Hire Days = 
       VAR AppliedDate = 'Application'[Applied Date]
       VAR HiredDate = 'Application'[Hired Date]
@@ -47,8 +48,9 @@ The dataset originates from an Excel file containing 6 distinct sheets. Each she
               BLANK ()
     )
    ```
+   
    Calculated average time to hire
-   '''text
+   ```text
    Avg Time to Hire = 
       AVERAGEX (
           FILTER (
