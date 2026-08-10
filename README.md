@@ -11,7 +11,10 @@ The process time of finding new employee is varied, some of job vacations are ab
 
 ## Business Questions
 1. How long does it take each stages of recruitment process in average?
-2. How long does it take to hire someone from the moment a job vacancy opens? 
+2. How long does it take to hire someone from the moment a job vacancy opens?
+3. What is the most resourceful job posting place?
+4. Which stage acts as a bottleneck in the recruitment process?
+5. How did the interviewers perform during the recruitment process?
 
 
 
