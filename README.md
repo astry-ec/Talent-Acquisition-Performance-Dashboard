@@ -32,7 +32,7 @@ The dataset originates from an Excel file containing 6 distinct sheets. Each she
 1. Total Candidates, Total Application, Total Hired
    ```text
    Total Candidates = DISTINCTCOUNT(Candidate[CandidateID])
-   '''
+   ```
 3. Average Time to Hire
    Calculated time to hire days
    '''text
@@ -46,7 +46,7 @@ The dataset originates from an Excel file containing 6 distinct sheets. Each she
               DATEDIFF ( AppliedDate, HiredDate, DAY ),
               BLANK ()
     )
-   '''
+   ```
    Calculated average time to hire
    '''text
    Avg Time to Hire = 
@@ -57,7 +57,7 @@ The dataset originates from an Excel file containing 6 distinct sheets. Each she
           ),
           'Application'[Time to Hire Days]
       )
-   '''
+   ```
    
 5. Average Days in Stage Process
 6. Average Interview Days
