@@ -10,7 +10,8 @@ Dataset used by this project is manually created with dummy information, the dat
 The process time of finding new employee is varied, some of job vacations are able to get new hire within targeted time but some are exceeded the target.
 
 ## Business Questions
-1. 
+1. How long each stages of recruitment process take time?
+2. 
 
-<img width="1874" height="846" alt="image" src="https://github.com/user-attachments/assets/b1175f52-8bf7-48d3-be42-9bed32f03d75" />
+
 
