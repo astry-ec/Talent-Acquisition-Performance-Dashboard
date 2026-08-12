@@ -123,12 +123,12 @@ an analysis of job vacancy opening and closing trends over time to monitor recru
 <img width="1058" height="775" alt="image" src="https://github.com/user-attachments/assets/ad19e75d-627a-46f2-b696-f41d8b9e69aa" />
 
 ## Key Findings
-1. Recruitment bottleneck
-Target/SLA performance
-Department/employee-level differences
-Source effectiveness
-Interviewer performance
-Vacancy closing performance
+The data source contains four months data of candidates. April, May, June and July. This report is created in the middle of August.
+
+1. The highest applicant come from the IT background with only 6 jobs vacancy open during these four months. Followed by applicant from Finance background with 7 jobs vacancy open.
+2. The result indicates that hire rates is 4.55%. It shows that the recruitment process is highly selective and competitive with a lot of candidates to begin.
+3. The applicant number was rose significantly in June, this figure matches with the number of new job vacancy open in June.
+4. As of August, 12 2026, The latest funnel of recruitment process leave Screening stage as the biggest bottleneck. It shows that candidates who are not move to the next steps is leave hanging. 
 
 ## Recommendations
 Berdasarkan findings, bukan recommendation generik.
