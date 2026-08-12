@@ -125,11 +125,15 @@ an analysis of job vacancy opening and closing trends over time to monitor recru
 ## Key Findings
 The data source contains four months data of candidates. April, May, June and July. This report is created in the middle of August.
 
-### Overall Dashboard
+### Recruitment Overview
 1. The IT sector recorded the highest number of applicants, despite there being only six job openings during that four-month period. The next position was held by applicants with a background in Finance, with seven job openings available.
 2. The result indicates that hire rate is 4.55%. It shows that the recruitment process may indicate that the recruitment process is highly selective, with a large candidate pool.
 3. The number of applicants rose significantly in June. This increase coincided with a rise in the number of new job vacancies opened during the same month.
 4. As of August 12, 2026, Screening contains the largest number of active applicants. This stage may require closer monitoring to determine whether candidates are progressing as expected or experiencing delays. - Go to recomendations
+
+### Time Performance Dashboard
+1. Employee Level GG03 is the only employee level that has average time to hire below the predefined target. On other hand, Employee Level GG08 is the longest average time to hire of employee level dimension.
+2. Predefined target is exceeded by all department for average time to hire.
 
 ## Recommendations
 Berdasarkan findings, bukan recommendation generik.
