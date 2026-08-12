@@ -132,8 +132,9 @@ The data source contains four months data of candidates. April, May, June and Ju
 4. As of August 12, 2026, Screening contains the largest number of active applicants. This stage may require closer monitoring to determine whether candidates are progressing as expected or experiencing delays. - Go to recomendations
 
 ### Time Performance Dashboard
-1. Employee Level GG03 is the only employee level that has average time to hire below the predefined target. On other hand, Employee Level GG08 is the longest average time to hire of employee level dimension.
-2. Predefined target is exceeded by all department for average time to hire.
+1. Employee Level GG03 is the only employee level that has an average time to hire below the predefined target. On other hand, Employee Level GG08 has the longest average time to hire.
+2. Average time to hire for all departments exceeded the predefined target. - Go to recommendations
+3. Interview 1 has the longest average days
 
 ## Recommendations
 Berdasarkan findings, bukan recommendation generik.
