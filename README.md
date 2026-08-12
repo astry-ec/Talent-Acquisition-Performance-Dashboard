@@ -134,7 +134,7 @@ The data source contains four months data of candidates. April, May, June and Ju
 ### Time Performance Dashboard
 1. Employee Level GG03 is the only employee level that has an average time to hire below the predefined target. On other hand, Employee Level GG08 has the longest average time to hire.
 2. Average time to hire for all departments exceeded the predefined target. - Go to recommendations
-3. Interview 1 has the longest average days
+3. Interview 1 has the highest average Days in Stage among all recruitment process stages. A similar pattern is observed across departments, with Interview 1 showing relatively high processing times in each department. This is particularly notable in the Legal department, where Interview 1 reaches 15 days, substantially exceeding the 7-day target.
 
 ## Recommendations
 Berdasarkan findings, bukan recommendation generik.
