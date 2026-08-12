@@ -125,10 +125,11 @@ an analysis of job vacancy opening and closing trends over time to monitor recru
 ## Key Findings
 The data source contains four months data of candidates. April, May, June and July. This report is created in the middle of August.
 
-1. The highest applicant come from the IT background with only 6 jobs vacancy open during these four months. Followed by applicant from Finance background with 7 jobs vacancy open.
-2. The result indicates that hire rates is 4.55%. It shows that the recruitment process is highly selective and competitive with a lot of candidates to begin.
-3. The applicant number was rose significantly in June, this figure matches with the number of new job vacancy open in June.
-4. As of August, 12 2026, The latest funnel of recruitment process leave Screening stage as the biggest bottleneck. It shows that candidates who are not move to the next steps is leave hanging. 
+### Overall Dashboard
+1. The IT sector recorded the highest number of applicants, despite there being only six job openings during that four-month period. The next position was held by applicants with a background in Finance, with seven job openings available.
+2. The result indicates that hire rate is 4.55%. It shows that the recruitment process may indicate that the recruitment process is highly selective, with a large candidate pool.
+3. The number of applicants rose significantly in June. This increase coincided with a rise in the number of new job vacancies opened during the same month.
+4. As of August 12, 2026, Screening contains the largest number of active applicants. This stage may require closer monitoring to determine whether candidates are progressing as expected or experiencing delays. - Go to recomendations
 
 ## Recommendations
 Berdasarkan findings, bukan recommendation generik.
