@@ -98,12 +98,27 @@ The dataset originates from an Excel file containing 6 distinct sheets. Each she
    ```
 ## Dashboard Analysis
 
+The dashboard was developed using Power BI. However, since I don't have access to Power BI Service for public sharing, I have attached a PDF containing all pages of the Talent Acquisition Performance Dashboard.
+
+[TA Performance Dashboard v2.pdf](https://github.com/user-attachments/files/30965922/TA.Performance.Dashboard.v2.pdf)
+
 1. Overall Performance
+A brief summary of Talent Acquisition's KPI.
+
 2. Time Performance
+an in-depth analysis of the time spent at each stage of the recruitment process across dimensions such as Employee Level and Department.
+
 3. Job Posting Performance
+an analysis of recruitment sources that attract more candidates and result in more hires.
+
 4. Interviewer Performance
+an analysis of interviewer performance based on interview volume and average interview duration compared against predefined target.
+
 5. Recruitment Process Funnel
+an analysis of candidate progression across recruitment stages to identify potential bottlenecks and significant candidate drop-offs.
+
 6. Job Vacancy Closing Performance
+an analysis of job vacancy opening and closing trends over time to monitor recruitment demand and vacancy closure performance.
 
 <img width="1058" height="775" alt="image" src="https://github.com/user-attachments/assets/ad19e75d-627a-46f2-b696-f41d8b9e69aa" />
 
