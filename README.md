@@ -120,8 +120,6 @@ an analysis of candidate progression across recruitment stages to identify poten
 6. Job Vacancy Closing Performance
 an analysis of job vacancy opening and closing trends over time to monitor recruitment demand and vacancy closure performance.
 
-<img width="1058" height="775" alt="image" src="https://github.com/user-attachments/assets/ad19e75d-627a-46f2-b696-f41d8b9e69aa" />
-
 ## Key Findings
 The data source contains four months data of candidates. April, May, June and July. This report is created in the middle of August.
 
@@ -135,6 +133,34 @@ The data source contains four months data of candidates. April, May, June and Ju
 1. Employee Level GG03 is the only employee level that has an average time to hire below the predefined target. On other hand, Employee Level GG08 has the longest average time to hire.
 2. Average time to hire for all departments exceeded the predefined target. - Go to recommendations
 3. Interview 1 has the highest average Days in Stage among all recruitment process stages. A similar pattern is observed across departments, with Interview 1 showing relatively high processing times in each department. This is particularly notable in the Legal department, where Interview 1 reaches 15 days, substantially exceeding the 7-day target.
+4. The Legal department shows the most significant delays during the interview process stages. A similar pattern is observed across departments, with Interview 1 consistently showing relatively high processing times.
+5. In contrast, the IT department demonstrates relatively stable processing times across recruitment stages, with most stages remaining close to their respective targets.
+
+### Job Posting Performance
+1. LinkedIn generated the highest number of applications, with 60 out 88 total applicants, making it the largest source candidates.
+2. Despite generating the highest application volume, LinkedIn recorded a relatively low overall hire rate of 33.3%, with only two candidates hired
+3. Referral recorded a 100% hire rate, but this result is based on only on application. Therefore, the high conversion rate should be interpreted cautiously due to the very small sample size.
+4. Sources effectiveness varies across departments.
+   a. LinkedIn generated 37 applications for IT but resulted in only one hire (2.70%).
+   b. JobStreet generated 11 IT applications and also resulted in one hire (9.09%).
+
+### Interviewer Performance
+1. Sanji handled the highest interview volume, conducting six Interview 1 sessions, followed by Chooper with four Interview 1 sessions.
+2. Sanji and Rina recorded the longest average interview duration at 12.8 and 12.3 days, respectively, substantially exceeding the 7-day target for their respective interview stages.
+3. Most other interviewers remained close to or below their predefined targets. However, Chooper slightly exceeded the 7-day target, with an average interview duration of 7.8 days.
+4. Among hiring managers with successful hires, Justin Andersen recorded the longest average Time to Hire at 47 days, while Levi Ackermann recorded the shortest at 29 days, slightly below the 30-day target.
+
+### Recruitment Process Funnel
+1. The recruitment funnel narrowed from 88 applications to four hires, resulting in an overall hire rate of 4.55%.
+2. The largest drop occurred between Screening and Interview 1, where the number of candidates decreased from 56 to 14, representing a 75% reduction.
+3. Candidate volume continued to decline throughout the interview stages, from 14 candidates at Interview 1 to nine at Interview 2 and six at Interview 3.
+4. All four candidates who reached the Offer stage were eventually hired, resulting in a 100% conversion rate from Offer to Hire in this dataset.
+
+### Job Closing Performance
+1. A total of 20 job vacancies were opened during the observed period, while only three were closed, leaving 17 positions currently open.
+2. Recruitment demand peaked in June, when 17 new job vacancies were opened, accounting for 85% of all vacancies opened during the period.
+3. All three job closures occurred in July, while only one new vacancy was opened during the same month.
+4. The overall job closing rate was 15%, indicating that the majority of vacancies opened during the observed period remained open at the time of analysis.
 
 ## Recommendations
 Berdasarkan findings, bukan recommendation generik.
