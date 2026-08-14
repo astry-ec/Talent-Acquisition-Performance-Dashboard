@@ -163,18 +163,20 @@ The data source contains four months data of candidates. April, May, June and Ju
 4. The overall job closing rate was 15%, indicating that the majority of vacancies opened during the observed period remained open at the time of analysis.
 
 ## Recommendations
-Berdasarkan findings, bukan recommendation generik.
-Prioritize berdasarkan impact.
+1. Review the transition from Screening to Interview 1, as this stage shows the largest candidate drop in the recruitment funnel. Further analysis should determine whether the decline is caused by candidate quality, screening criteria, candidate withdrawal, or other factors.
+2. Review the Interview 1 and Interview 2 processes, particularly for departments with processing times above the predefined targets. The Legal department should receive particular attention due to its substantially longer interview duration.
+3. Evaluate recruitment sources based on both application volume and hiring outcomes rather than application volume alone. LinkedIn generates the largest candidate pool but has a relatively low hire rate, while smaller sources should be evaluated with caution due to limited sample sizes.
+4. Monitor interviewer workload and processing time together. Interviewers with high interview volumes or above-target processing times may require workload redistribution or further investigation to identify the causes of delays.
+5. Monitor the 17 currently open vacancies, particularly those that remain open beyond the expected hiring timeline, to identify positions that may require additional sourcing or process improvements.
 
 ## Limitations
-Dummy/manual dataset
-Small sample
-Assumed targets
-Tidak merepresentasikan perusahaan nyata
-Beberapa metric sensitif terhadap sample size — referral 100% kamu itu contoh bagus 😂
+1. The dataset used in this project is manually created dummy data and does not represent the recruitment performance of any actual company or organization.
+2. The dataset contains only 88 applications, 75 candidates, and 20 job vacancies across a four-month period. Therefore, the findings should not be generalized to a larger recruitment population.
+3. Some categories contain very small sample sizes. For example, the 100% Referral hire rate is based on only one application and should not be interpreted as evidence that Referral is the most effective recruitment source.
+4. The dashboard primarily measures recruitment volume, conversion, and processing time. It does not include other factors such as candidate quality, withdrawal reasons, recruitment costs, interviewer availability, or candidate experience that could explain the observed results.
 
 ## Conclusion
-
+The analysis highlights several areas of the recruitment process that may require further attention. Although 88 applications were received, only four candidates were hired, resulting in a 4.55% hire rate. The largest candidate drop occurred between Screening and Interview 1, while the interview stages also showed some processing times above their predefined targets. In addition, recruitment sources with high application volumes did not necessarily produce higher hire rates. These findings demonstrate the importance of evaluating recruitment performance through multiple dimensions, including candidate conversion, processing time, sourcing effectiveness, and job vacancy closure.
 
 
 
