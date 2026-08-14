@@ -3,6 +3,17 @@ Talent Acquisition Performance Dashboard
 
 Talent Acquisition Performance Dashboard Analysis has a comprehensive outlook about end-to-end Recruitment Process. This dashboard has 6 pages which serves and answers different point of view of business questions. 
 
+Below is the table of content for this Data Analytics Reporting
+[- Dataset Overview](https://github.com/astry-ec/Talent-Acquisition-Performance-Dashboard/blob/main/README.md#dataset-overview)
+[- Problem Statement](https://github.com/astry-ec/Talent-Acquisition-Performance-Dashboard/blob/main/README.md#problem-statement)
+[- Business Questions](https://github.com/astry-ec/Talent-Acquisition-Performance-Dashboard/blob/main/README.md#business-questions)
+[- Dataset Overview](https://github.com/astry-ec/Talent-Acquisition-Performance-Dashboard/blob/main/README.md#data-modelling-approach)
+[- Dashboard Analysis](https://github.com/astry-ec/Talent-Acquisition-Performance-Dashboard/blob/main/README.md#dashboard-analysis)
+[- Recommendations](https://github.com/astry-ec/Talent-Acquisition-Performance-Dashboard/blob/main/README.md#key-findings)
+[- Recommendations](https://github.com/astry-ec/Talent-Acquisition-Performance-Dashboard/blob/main/README.md#recommendations)
+[- Limitations](https://github.com/astry-ec/Talent-Acquisition-Performance-Dashboard/blob/main/README.md#limitations)
+[- Conclusion](https://github.com/astry-ec/Talent-Acquisition-Performance-Dashboard/blob/main/README.md#conclusion)
+
 ## Dataset Overview
 Dataset used by this project is manually created with dummy information, the data and output of the analysis is not related or depicted any company/institution's performance.
 
